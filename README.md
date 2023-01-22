@@ -3,8 +3,7 @@
 This repository is a meta repository for my personal Front-End Development projects
 
 ## React
-
-<-React projects go here ->
+- [FinTrack](https://github.com/farhaan-mukarram/fin-track): A finance tracking application
 
 ## Svelte
 
